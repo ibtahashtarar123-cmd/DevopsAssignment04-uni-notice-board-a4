@@ -1,0 +1,20 @@
+{
+  "name": "devopsassignment04-uni-notice-board-a4",
+  "version": "1.0.0",
+  "description": "This is my Assignment 04 DevOps ",
+  "homepage": "https://github.com/ibtahashtarar123-cmd/DevopsAssignment04-uni-notice-board-a4#readme",
+  "bugs": {
+    "url": "https://github.com/ibtahashtarar123-cmd/DevopsAssignment04-uni-notice-board-a4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibtahashtarar123-cmd/DevopsAssignment04-uni-notice-board-a4.git"
+  },
+  "license": "ISC",
+  "author": "Ibtahash Tarar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
